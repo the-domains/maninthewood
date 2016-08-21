@@ -1,0 +1,14 @@
+layout_spectrum: 0.2914894
+typography_spectrum: 1
+color:
+  saturation: 0.9931842
+  lightness: 0.5127659
+  brandStrength: 0.848814
+  brandColors:
+    - '#FFFFFF'
+    - '#16110B'
+    - '#9B8971'
+    - '#E6C3A3'
+    - '#654F3A'
+  rhythmicContrast: 0.7138795
+name: ManintheWood
